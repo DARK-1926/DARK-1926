@@ -1,5 +1,50 @@
-# 💫 About Me:
-👋 Hey, I’m Mohit Kumar<br><br>🎓 CSE @ IIIT Dharwad<br>💡 Passionate about AI, Web Development, and building meaningful tech experiences.<br><br>🚀 Currently working on<br><br>🎶 Music-Based-on-Mood — an AI project that detects user mood and recommends songs accordingly<br><br>🧠 Sentiment Analysis with Reddit Plugin — analyzing Reddit comments to study public emotion trends<br><br>🌐 IIIT Dharwad Website — contributing to the official site’s structure and functionality<br><br>⚡ PCB—ESD-1 — an electronics design automation project exploring circuit layouts and automation<br><br>📡 Network Analyzer — a Python-based project to capture and analyze network packets efficiently<br><br>🤝 Looking to collaborate on<br><br>Open-source AI/ML or Data Science projects<br><br>Innovative Web Apps that blend creativity and analytics<br><br>Contributions toward GSoC 2026 and other open-source initiatives<br><br>🧩 Looking for help with<br><br>Deploying ML models efficiently on web platforms<br><br>Integrating real-time data pipelines in AI applications<br><br>📘 Currently learning<br><br>HTML, CSS, and Jinja2 for dynamic web templating<br><br>Flask, SQL, PostgreSQL, and SQLAlchemy for backend development<br><br>Data Structures & Algorithms (DSA) for problem-solving<br><br>Cybersecurity concepts and network-level analysis<br><br>💬 Ask me about<br><br>Python, Machine Learning, and APIs<br><br>Git & GitHub collaboration<br><br>How to turn ideas into working prototypes<br><br>⚡ Fun fact<br><br>I love connecting tech and art — from analyzing moods in music to designing clean, functional websites.<br>When I’m not coding, I’m probably stargazing through my telescope or adding a new coin to my collection. 🌙✨
+### 👋 Hey, I’m **Mohit Kumar**
+
+🎓 *CSE @ IIIT Dharwad*  
+💡 Passionate about AI, Web Development, and building meaningful tech experiences.
+
+---
+
+### 🚀 Currently working on  
+- 🎶 **Music-Based-on-Mood** — an AI project that detects user mood and recommends songs accordingly  
+- 🧠 **Sentiment Analysis with Reddit Plugin** — analyzing Reddit comments to study public emotion trends  
+- 🌐 **IIIT Dharwad Website** — contributing to the official site’s structure and functionality  
+- ⚡ **PCB—ESD-1** — an electronics design automation project exploring circuit layouts and automation  
+- 📡 **Network Analyzer** — a Python-based project to capture and analyze network packets efficiently  
+
+---
+
+### 🤝 Looking to collaborate on  
+- Open-source **AI/ML** or **Data Science** projects  
+- Innovative **Web Apps** that blend creativity and analytics  
+- Contributions toward **GSoC 2026** and other open-source initiatives  
+
+---
+
+### 🧩 Looking for help with  
+- Deploying ML models efficiently on **web platforms**  
+- Integrating **real-time data pipelines** in AI applications  
+
+---
+
+### 📘 Currently learning  
+- **HTML**, **CSS**, and **Jinja2** for dynamic web templating  
+- **Flask**, **SQL**, **PostgreSQL**, and **SQLAlchemy** for backend development  
+- **Data Structures & Algorithms (DSA)** for problem-solving  
+- **Cybersecurity concepts** and network-level analysis  
+
+---
+
+### 💬 Ask me about  
+- Python, Machine Learning, and APIs  
+- Git & GitHub collaboration  
+- How to turn ideas into working prototypes  
+
+---
+
+### ⚡ Fun fact  
+I love connecting tech and art — from analyzing moods in music to designing clean, functional websites.  
+When I’m not coding, I’m probably stargazing through my telescope or adding a new coin to my collection. 🌙✨  
 
 
 ## 🌐 Socials:
