@@ -9,7 +9,6 @@
 - 🎶 **Music-Based-on-Mood** — an AI project that detects user mood and recommends songs accordingly  
 - 🧠 **Sentiment Analysis with Reddit Plugin** — analyzing Reddit comments to study public emotion trends  
 - 🌐 **IIIT Dharwad Website** — contributing to the official site’s structure and functionality  
-- ⚡ **PCB—ESD-1** — an electronics design automation project exploring circuit layouts and automation  
 - 📡 **Network Analyzer** — a Python-based project to capture and analyze network packets efficiently  
 
 ---
