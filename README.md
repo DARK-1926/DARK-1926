@@ -1,7 +1,7 @@
 ### 👋 Hey, I’m **Mohit Kumar**
 
 🎓 *CSE @ IIIT Dharwad*  
-💡 Passionate about AI, Web Development, and building meaningful tech experiences.
+💡 Passionate about AI, Web Development, and building meaningful tech experience.
 
 ---
 
