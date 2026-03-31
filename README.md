@@ -10,7 +10,6 @@
 
 | Project | PR / Issue | Description | Status |
 |---|---|---|---|
-| [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) | [PR #3351](https://github.com/intelowlproject/IntelOwl/pull/3351) | Bug fix in IntelOwl core | ✅ Merged |
 | [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) | [Issue #3374](https://github.com/intelowlproject/IntelOwl/issues/3374) | Identified N+1 query bottleneck in JobViewSet | 📋 Filed |
 | [augurlabs/augur](https://github.com/augurlabs/augur) | [PR #3691](https://github.com/augurlabs/augur/pull/3691) | `fix(docker): remove geckodriver and firefox-esr` — Docker image optimization | ✅ Merged |
 | [django-crm](https://github.com/django-crm/django-crm) | — | Duplicate entity handling & city normalization | ✅ Contributed |
